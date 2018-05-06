@@ -1,7 +1,7 @@
 D:\dojo\solution\LoLImageAnalysis\LoLImageAnalysis\bin\Debug\LoLImageAnalysis.exe.config
 D:\dojo\solution\LoLImageAnalysis\LoLImageAnalysis\bin\Debug\LoLImageAnalysis.exe
 D:\dojo\solution\LoLImageAnalysis\LoLImageAnalysis\bin\Debug\LoLImageAnalysis.pdb
-D:\dojo\solution\LoLImageAnalysis\LoLImageAnalysis\obj\Debug\LoLImageAnalysis.csprojResolveAssemblyReference.cache
 D:\dojo\solution\LoLImageAnalysis\LoLImageAnalysis\obj\Debug\LoLImageAnalysis.csproj.CoreCompileInputs.cache
 D:\dojo\solution\LoLImageAnalysis\LoLImageAnalysis\obj\Debug\LoLImageAnalysis.exe
 D:\dojo\solution\LoLImageAnalysis\LoLImageAnalysis\obj\Debug\LoLImageAnalysis.pdb
+D:\dojo\solution\LoLImageAnalysis\LoLImageAnalysis\obj\Debug\LoLImageAnalysis.csprojResolveAssemblyReference.cache

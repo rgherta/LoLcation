@@ -11,7 +11,6 @@ using System.Drawing;
  */
 
 
-
 namespace LoLImageAnalysis
 {
     public class Screenshot
@@ -26,7 +25,7 @@ namespace LoLImageAnalysis
             bmp = new Bitmap(url);
         }
 
-        public Bitmap getMiniMap()
+        public Bitmap GetMinimap()
         {
             int miniMapSize = (int)Math.Round(Math.Sqrt(bmp.Width * bmp.Height * pixelRatio));
             int offset = (int)Math.Round(bmp.Width * bmp.Height * offsetRatio / miniMapSize);
@@ -37,5 +36,7 @@ namespace LoLImageAnalysis
             Rectangle rect = new Rectangle(canvasX, canvasY, miniMapSize, miniMapSize);
             return bmp.Clone(rect, bmp.PixelFormat);
         }
+
+
     }
 }
