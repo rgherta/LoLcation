@@ -1,3 +1,5 @@
+# LoL Image Analysis
+
 This is a console tool that identifies player location based on LeagueOfLegends screenshots;
 
 [DOCUMENTATION]
