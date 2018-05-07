@@ -132,8 +132,8 @@ namespace LoLImageAnalysis
             Console.WriteLine("[" + appName + "] is a console tool that identifies player location based on LeagueOfLegends screenshots;");
             Console.WriteLine();
             Console.WriteLine("[-s] [--src]   can be an individual image file or a folder with images;");
-            Console.WriteLine("               Example:    --src path/to/my/file.jpg");
-            Console.WriteLine("                           --src path/to/my/folder");
+            Console.WriteLine("               Example:    --src path\to\my\file.jpg");
+            Console.WriteLine("                           --src path\to\my\folder");
    
         }
 
